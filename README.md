@@ -2,11 +2,29 @@
 
 A simple, one-screen Tic Tac Toe game built with Streamlit. Two players click alternately in the same browser tab. Scores persist for the session.
 
+
+
+## How to Play
+
+- Two players take turns clicking on the 3×3 grid.
+
+- Player X always goes first.
+
+- The first to line up three symbols horizontally, vertically, or diagonally wins.
+
+ - Scores are tracked for the current session.
+
+  - Hit Reset Board to start a new game, or Reset Scores to clear session stats.
+
 ## Local Run
 
 ```bash
+
+git clone <your-repo-url>
+cd tictactoe-streamlit
 pip install -r requirements.txt
 streamlit run app.py
+
 ```
 Then open the URL shown (usually http://localhost:8501).
 
@@ -30,5 +48,5 @@ Forward the port (e.g., 7860) and open the preview link.
 
 Click here to play Tic Tac Toe in your browser:
 
-[Play Tic Tac Toe](https://tictactoe-mxetgvjyzlm5ffg9svwmo8.streamlit.app/)
+[🎮 Play Tic Tac Toe 🎮](https://tictactoe-mxetgvjyzlm5ffg9svwmo8.streamlit.app/)
 
