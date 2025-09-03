@@ -50,3 +50,13 @@ Click here to play Tic Tac Toe in your browser:
 
 [🎮 Play Tic Tac Toe 🎮](https://tictactoe-mxetgvjyzlm5ffg9svwmo8.streamlit.app/)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+For questions or contributions, open an issue or contact [me](mailto:tezamo@web.de).
+
+[![pages-build-deployment](https://github.com/tezamo/tic_tac_toe/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/tezamo/tic_tac_toe/actions/workflows/pages/pages-build-deployment)
+[![contributors](https://img.shields.io/github/contributors/tezamo/tic_tac_toe.svg)](https://github.com/tezamo/tic_tac_toe/graphs/contributors)
+[![GitHub release](https://img.shields.io/github/v/release/tezamo/tic_tac_toe.svg)](https://GitHub.com/tezamo/tic_tac_toe/releases/)
+[![GitHub license](https://img.shields.io/github/license/tezamo/tic_tac_toe.svg)](https://github.com/tezamo/tic_tac_toe/blob/main/LICENSE)
