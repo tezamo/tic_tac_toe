@@ -25,3 +25,10 @@ pip install -r requirements.txt
 streamlit run app.py --server.address 0.0.0.0 --server.port 7860
 ```
 Forward the port (e.g., 7860) and open the preview link.
+
+## Play Online
+
+Click here to play Tic Tac Toe in your browser:
+
+[Play Tic Tac Toe](https://tictactoe-mxetgvjyzlm5ffg9svwmo8.streamlit.app/)
+
