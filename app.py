@@ -1,7 +1,7 @@
 
 import streamlit as st
 
-st.set_page_config(page_title="Tic Tac Toe", page_icon="🎮", layout="centered")
+st.set_page_config(page_title="Tic Tac Toe by tezamo", page_icon="🎮", layout="centered")
 
 # --- Session State ---
 if "board" not in st.session_state:
